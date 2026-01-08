@@ -1,0 +1,57 @@
+PROPRIETARY AND RESTRICTED LICENSE
+
+Copyright (c) 2025 Lackadaisical Security Inc. All Rights Reserved.
+
+SECURITY CLASSIFICATION: RESTRICTED MILITARY-GRADE TECHNOLOGY
+
+This software is classified as RESTRICTED MILITARY-GRADE technology due to its advanced security capabilities and simulation technologies, including but not limited to:
+
+1. Quantum-resistant cryptography (Dilithium, Kyber, SPHINCS+, Falcon implementations)
+2. Air gap security infrastructure with executable validation
+3. Polymorphic and metamorphic encryption systems
+4. Advanced behavioral fingerprint randomization
+5. Machine learning-based threat detection and prevention
+6. Hardware Security Module integration
+7. Advanced Digital Twin personality simulation
+8. Neural Behavioral Modeling with AI-driven behavioral patterns
+9. Blockchain-based cryptographic verification
+10. Decentralized consensus mechanisms
+
+These technologies are subject to strict export controls under international regulations. Use and distribution are subject to stringent controls as outlined below.
+
+This software and associated documentation files (the "Software") are the proprietary
+and confidential property of Lackadaisical Security Inc. The Software may only be used
+by entities or individuals who have obtained a valid license directly from 
+Lackadaisical Security Inc. and who maintain appropriate security clearance.
+
+This license applies retroactively to all previous versions of the Software, which are
+hereby privatized and subject to these same terms and conditions regardless of any
+previous licensing terms that may have been included with those versions.
+
+SECURITY AND USAGE RESTRICTIONS:
+
+1. Access Control: Access to this software must be restricted to authorized personnel with appropriate security clearance.
+2. Deployment Environment: Software must be deployed only in secure, controlled environments with appropriate network isolation.
+3. Security Auditing: All usage must be logged and audited in compliance with security best practices.
+4. Data Protection: Any data processed by this software must be protected according to its sensitivity level.
+5. Export Restrictions: This software is subject to export control laws and regulations and may not be exported or re-exported to certain countries or to persons or entities prohibited from receiving exports from the United States.
+6. Air Gap Validation: When used in air gap environments, all executable files must undergo integrity validation through the system's built-in validation mechanisms.
+7. Key Management: Quantum-resistant keys must be managed according to the security protocols defined in the documentation, including proper rotation and backup procedures.
+8. Secure Deployment: All deployment must follow the secure deployment guidelines outlined in the documentation.
+9. Digital Twin Usage: The Digital Twin simulation technology must not be used for unauthorized personality profiling or behavioral manipulation.
+10. Blockchain Integration: Cryptographic verification records must be properly secured and not used for tracking individuals without proper authorization.
+
+Unauthorized copying, transfer, reproduction, modification, distribution, or public display
+of this Software, in whole or in part, by any means and in any form, is strictly prohibited
+without prior written permission from Lackadaisical Security Inc.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For licensing inquiries, please contact: licensing@lackadaisical-security.com
+
+For security inquiries or to report potential vulnerabilities, please contact: security@lackadaisical-security.com
