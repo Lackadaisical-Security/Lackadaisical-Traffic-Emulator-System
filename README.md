@@ -1,5 +1,7 @@
 # Lackadaisical Traffic Emulator System (LTES) v4.0.0
 
+<img src="https://github.com/Lackadaisical-Security/Lackadaisical-Traffic-Emulator-System/blob/main/LTES.png" alt="LTES Logo" width="300"/>
+  
 ## 🚀 Production-Ready Release - Complete System Overview
 
 **For Authorized Security Testing, Penetration Testing, and Research Only**
